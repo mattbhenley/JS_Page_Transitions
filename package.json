@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@dogstudio/highway": "^2.1.2",
     "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
